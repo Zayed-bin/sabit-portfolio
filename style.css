@@ -1,0 +1,119 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+
+h1{
+   
+   color: blue;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+section{
+    height: 550px;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+.link-button{
+    color: black;
+    background-image: linear-gradient(50deg,yellow,green);
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.click-button{
+    color: black;
+    background-image: linear-gradient(50deg,pink,red);
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+.middle-banner{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.width{
+    width: 100%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.width img{
+    width: 27% ;
+    margin-left: 3%;
+}
+.bottom-banner{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: right;
+}
+#sabit{
+    text-align: center;
+    font-size: 40px;
+}
+#sabit2{
+    text-align: center;
+    font-size: 40px;
+}
+#sabit3{
+    text-align: center;
+    
+}
+#sabit4{
+    text-align: center;
+    
+}
+.center{
+    text-align: center;
+    
+}
+.center1{
+    text-align: center;
+    
+}
+.touch-button{
+    color: black;
+    background-image: linear-gradient(violet,blue);
+    width: 30%;
+    margin-left: 500px;
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
+.sabit3{
+    text-decoration: none;
+    color: black;
+}
+.text1{
+    font-size: 10px;
+
+}
+.text2{
+    font-size: 20px;
+}
+.jayed{
+    font-size: 12px;
+    text-align: center;
+}
+.sabit-banner{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
